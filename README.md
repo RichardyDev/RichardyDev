@@ -1,23 +1,72 @@
-<h2>🧑🏾‍💻 Richardy | WydexLab</h2>
+## 🧑🏾‍💻 WydexLa
 
-**`Full Stack Developer in development`**
+**`Web Developer in Progress`**
+
+Olá! 👋 Meu nome é Richardy e este é meu laboratório pessoal de desenvolvimento — WydexLab.
+
+---
+
+### 🌐 Sobre
+
+
+
+
+A WydexLab é um espaço pessoal onde organizo meus projetos, estudos e experimentos enquanto evoluo como desenvolvedor web.
+
+Atualmente estou no início da minha jornada, construindo uma base sólida em:
+
+- HTML  
+- CSS  
+- JavaScript (em andamento)
 
 ---
 
-<p>
-Hello! 👋 My name is Richardy, Founder of WydexLab, and I’m a Full Stack Developer in development, passionate about building scalable and efficient digital solutions. 
-<br>
-I enjoy turning ideas into real-world applications, focusing on performance, clean architecture, and high-quality user experience.
-<br>
 
-💻 <b>Currently learning:</b> JavaScript, TypeScript, React, Next.js, Node.js, Docker, REST APIs  
-📚 <b>Future learning:</b> SQL, Java, Python  
-🤝 <b>Open to:</b> Collaborations and new opportunities  
 
-I believe in technology as a driver of innovation and I’m always looking to grow, build, and create meaningful solutions.
-</p>
+## 🎯 Propósito
+
+O objetivo deste laboratório é:
+
+- Documentar minha jornada de aprendizado  
+- Praticar com projetos reais  
+- Construir consistência no desenvolvimento  
+- Evoluir para projetos mais avançados com o tempo  
+- Explorar contribuições open source no futuro  
 
 ---
+
+## 🚀 Foco atual
+
+Neste momento, estou focado em:
+
+- Fortalecer fundamentos em desenvolvimento web  
+- Praticar por meio de projetos simples  
+- Melhorar lógica de programação e raciocínio  
+
+---
+
+## 🤝 Visão
+
+Acredito que aprender acontece na prática, construindo projetos.
+
+A WydexLab vai evoluir ao longo do tempo para um conjunto de projetos, experimentos e soluções que representem meu crescimento como desenvolvedor.
+
+---
+
+## 📫 Aberto a
+
+- Oportunidades de aprendizado  
+- Colaboração em projetos  
+- Crescimento na área de tecnologia  
+
+---
+
+> “Aprender é um processo contínuo de construir e evoluir.”
+
+
+
+
+
 
 <div align="center">
   <h2 align="center">📊 Statistics</h2>
