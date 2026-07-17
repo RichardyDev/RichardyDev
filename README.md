@@ -1,16 +1,41 @@
-## Hi there 👋
+## WydexLab
 
-<!--
-**RichardyDev/RichardyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Web`**
 
-Here are some ideas to get you started:
+Olá! 👋 Meu nome é Richardy e este é meu laboratório pessoal de desenvolvimento — WydexLab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Sobre
+
+A WydexLab é um espaço pessoal onde organizo meus projetos, estudos e experimentos enquanto evoluo como desenvolvedor web.
+
+---
+
+### 🎯 Propósito
+
+O objetivo deste laboratório é:
+
+- Documentar minha jornada de aprendizado  
+- Praticar com projetos reais  
+- Construir consistência no desenvolvimento 
+
+---
+
+### 🤝 Visão
+
+Acredito que aprender acontece na prática, construindo projetos.
+
+A WydexLab vai evoluir ao longo do tempo para um conjunto de projetos, experimentos e soluções que representem meu crescimento como desenvolvedor.
+
+---
+
+### 📫 Aberto a
+
+- Oportunidades de aprendizado  
+- Colaboração em projetos  
+- Crescimento na área de tecnologia  
+
+---
+
+> “Aprender é um processo contínuo de construir e evoluir.”
